@@ -1,0 +1,8 @@
+edge-tts
+SpeechRecognition
+requests
+rich
+numpy
+webrtcvad-wheels
+faster-whisper
+piper-tts
